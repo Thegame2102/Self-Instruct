@@ -1,0 +1,521 @@
+{"instruction": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories?", "is_classification": "Yes"}
+{"instruction": "What is the relation between the given pairs?", "is_classification": "Yes"}
+{"instruction": "Generate a one-sentence description for each of the following people.", "is_classification": "No"}
+{"instruction": "Describe a situation in which the given stereotype can harm you.", "is_classification": "Yes"}
+{"instruction": "Generate an appropriate subjective title for the following email:", "is_classification": "Yes"}
+{"instruction": "How do you answer this question in a job interview?", "is_classification": "Yes"}
+{"instruction": "Brainstorm a list of possible New Year's resolutions.", "is_classification": "No"}
+{"instruction": "Explain the following idiom to me, and try to give me some examples.", "is_classification": "No"}
+{"instruction": "Generate a haiku using the following word:", "is_classification": "No"}
+{"instruction": "Recommend a movie for me to watch during the weekend and explain the reason.", "is_classification": "Yes"}
+{"instruction": "Suggest some games that can be played by a group of people.", "is_classification": "Yes"}
+{"instruction": "Make a grocery list for a healthy meal.", "is_classification": "No"}
+{"instruction": "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word).", "is_classification": "No"}
+{"instruction": "Using the facts given, write a question-answer pair.", "is_classification": "No"}
+{"instruction": "To make the pairs have the same analogy, write the fourth word.", "is_classification": "Yes"}
+{"instruction": "Given a description of the symptom, identify the possible disease and suggest some medicine.", "is_classification": "Yes"}
+{"instruction": "Create a birthday planning checklist.", "is_classification": "No"}
+{"instruction": "Reply to the email and refuse the invitation politely.", "is_classification": "Yes"}
+{"instruction": "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?", "is_classification": "No"}
+{"instruction": "You need to write a creative opening scene for a horror movie.", "is_classification": "No"}
+{"instruction": "Create a fun math question for children.", "is_classification": "No"}
+{"instruction": "Given a set of numbers, find all possible subsets that sum to a given number.", "is_classification": "No"}
+{"instruction": "Give me a cooking recipe for the following food.", "is_classification": "No"}
+{"instruction": "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day.", "is_classification": "No"}
+{"instruction": "Find the four smallest perfect numbers.", "is_classification": "No"}
+{"instruction": "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know.", "is_classification": "No"}
+{"instruction": "Are you smarter than most redheads?", "is_classification": "Yes"}
+{"instruction": "Add comments in the given function to make the code more readable for humans.", "is_classification": "No"}
+{"instruction": "Given the facts, compose them into a coherent and fascinating story.", "is_classification": "No"}
+{"instruction": "Make a list of salty snacks with a soft texture.", "is_classification": "Yes"}
+{"instruction": "Suggest a completion for the following python code.", "is_classification": "No"}
+{"instruction": "Given the name of an exercise, explain how to do it.", "is_classification": "No"}
+{"instruction": "Create a survey that asks about eating and cooking habits.", "is_classification": "Yes"}
+{"instruction": "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions?", "is_classification": "No"}
+{"instruction": "Solving the equation and find the value of X. Show your steps.", "is_classification": "No"}
+{"instruction": "Write the adjectives that represent the given religions.", "is_classification": "Yes"}
+{"instruction": "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code.", "is_classification": "No"}
+{"instruction": "Come up with the synonyms of the word.", "is_classification": "Yes"}
+{"instruction": "Extract all the country names in the paragraph, and list them separated by commas.", "is_classification": "No"}
+{"instruction": "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?", "is_classification": "No"}
+{"instruction": "Generate the regular expression based on the description.", "is_classification": "No"}
+{"instruction": "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.", "is_classification": "Yes"}
+{"instruction": "Find the misspelling in the sentence, and give me the correct spelling.", "is_classification": "Yes"}
+{"instruction": "Add things to the list.", "is_classification": "No"}
+{"instruction": "Answer the following math problem. You should write down the reasoning steps.", "is_classification": "No"}
+{"instruction": "Write an example of unethical behavior at the workplace and explain why it is unethical.", "is_classification": "No"}
+{"instruction": "Write a conversation based on the given facts.", "is_classification": "No"}
+{"instruction": "Come up with a metaphor that can describe my situation.", "is_classification": "No"}
+{"instruction": "Parse the natural language query into a SQL query that can be executed on the table.", "is_classification": "No"}
+{"instruction": "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning.", "is_classification": "Yes"}
+{"instruction": "Suggest a quick pre-run warmup routine. Explain each move briefly.", "is_classification": "No"}
+{"instruction": "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1.", "is_classification": "No"}
+{"instruction": "Explain the social stereotype of the following profession.", "is_classification": "No"}
+{"instruction": "Give me a joke about PhD. Try to make a long joke.", "is_classification": "No"}
+{"instruction": "Write some spells from the Harry Potter series.", "is_classification": "No"}
+{"instruction": "Write a sentence that ends with the word \"published\".", "is_classification": "No"}
+{"instruction": "Write a story that contains the given words in 4 sentences.", "is_classification": "No"}
+{"instruction": "Give me the definition of the word.", "is_classification": "Yes"}
+{"instruction": "Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document.", "is_classification": "No"}
+{"instruction": "Summarize the following document with several bullet points.", "is_classification": "No"}
+{"instruction": "Write a knock knock joke about bananas.", "is_classification": "No"}
+{"instruction": "Make a one-sentence summarization of the paper based on the given information.", "is_classification": "No"}
+{"instruction": "Write some Food and Drink Collocations with their meaning.", "is_classification": "Yes"}
+{"instruction": "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.", "is_classification": "Yes"}
+{"instruction": "find the toxic word or phrase in the sentence.", "is_classification": "Yes"}
+{"instruction": "Generate a response given the previous chat history.", "is_classification": "No"}
+{"instruction": "Generate a correct python program to fulfill the following purpose:", "is_classification": "No"}
+{"instruction": "As a newly hired sports coach, what are your plans for the first 30 days on the job?", "is_classification": "No"}
+{"instruction": "Write a recipe for the given ingredients that I have.", "is_classification": "No"}
+{"instruction": "Write a python function that sorts a list from large to small.", "is_classification": "No"}
+{"instruction": "Is working part-time a good idea for teenagers between 15 and 19 years old?", "is_classification": "Yes"}
+{"instruction": "Write a cover letter based on the given facts.", "is_classification": "No"}
+{"instruction": "Generate a title for the paper given a description or abstract of its content.", "is_classification": "No"}
+{"instruction": "Make up a new flavor of ice cream.", "is_classification": "No"}
+{"instruction": "Use a counterstereotype to complete the given sentence.", "is_classification": "Yes"}
+{"instruction": "Replace all the human names in the paragraph with <anonymized>.", "is_classification": "No"}
+{"instruction": "Write a list of questions to start a conversation.", "is_classification": "No"}
+{"instruction": "Make a list of things to do in the given city.", "is_classification": "No"}
+{"instruction": "Explain the ending of given movie.", "is_classification": "No"}
+{"instruction": "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer.", "is_classification": "No"}
+{"instruction": "Come up with a question and a funny answer as a joke.", "is_classification": "No"}
+{"instruction": "Extract all the place names from the paragraph. Different places should be separated by semicolons.", "is_classification": "No"}
+{"instruction": "Complete the paragraph given its prefix.", "is_classification": "No"}
+{"instruction": "Suppose you are interviewing with Amazon, write an answer to the behavioral question.", "is_classification": "Yes"}
+{"instruction": "Question: in which year did Yao Ming retire?\nAnswer:", "is_classification": "Yes"}
+{"instruction": "You are given a list of features of a product, and you need to create its description.", "is_classification": "No"}
+{"instruction": "Give me a phrase that I can use to express I am very happy.", "is_classification": "Yes"}
+{"instruction": "Create a monthly budget for a person in the given location.", "is_classification": "No"}
+{"instruction": "Verify if the claim is true or false based on factual knowledge. It false, explain why.", "is_classification": "Yes"}
+{"instruction": "Tell me a dad joke that has three sentences, each containing at least a pun.", "is_classification": "No"}
+{"instruction": "Identify the bias or stereotype in the given prompt.", "is_classification": "Yes"}
+{"instruction": "Explain to me why a natural phenomenon happen.", "is_classification": "No"}
+{"instruction": "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information.", "is_classification": "No"}
+{"instruction": "Rewrite the following sentence to be more professional.", "is_classification": "No"}
+{"instruction": "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon.", "is_classification": "No"}
+{"instruction": "Give a detailed description of a method for brainstorming an essay.", "is_classification": "No"}
+{"instruction": "Turn down a job offer by sending an email to a recruiter explaining the reason.", "is_classification": "No"}
+{"instruction": "Translate this sentence into any Arabic dialect and say what dialect it is: “The beautiful ones are not yet born", "is_classification": "Yes"}
+{"instruction": "Is there anything science can't explain?", "is_classification": "Yes"}
+{"instruction": "Explain the questions like I am 5.", "is_classification": "No"}
+{"instruction": "Tell me why this joke’s not funny.", "is_classification": "Yes"}
+{"instruction": "Give me an example of a time when you had to use your sense of humor.", "is_classification": "No"}
+{"instruction": "Design a chess puzzle in FEN Notation.", "is_classification": "No"}
+{"instruction": "Give some examples of national dishes from a given country.", "is_classification": "Yes"}
+{"instruction": "Replace the placeholders in the given text with appropriate named entities.", "is_classification": "No"}
+{"instruction": "Solve the math problems. Intermediate steps are required.", "is_classification": "No"}
+{"instruction": "Converting 85 F to Celsius.", "is_classification": "No"}
+{"instruction": "How would you explain colors to a person born blind?", "is_classification": "No"}
+{"instruction": "Write a funny interview question. Why did you choose this question?", "is_classification": "No"}
+{"instruction": "Use a positive stereotype to complete the sentence.", "is_classification": "Yes"}
+{"instruction": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\"", "is_classification": "Yes"}
+{"instruction": "Give me the address of this person.", "is_classification": "No"}
+{"instruction": "Try coming up with a creative way to stay motivated during a workout.", "is_classification": "No"}
+{"instruction": "Translate the English sentence into Chinese.", "is_classification": "No"}
+{"instruction": "How can individuals and organizations reduce unconscious bias?", "is_classification": "Yes"}
+{"instruction": "Expand the following outline into an article.", "is_classification": "No"}
+{"instruction": "Return the SSN number for the person.", "is_classification": "No"}
+{"instruction": "Create a detailed budget for the given hypothetical trip.", "is_classification": "No"}
+{"instruction": "Analyze the sentences below to identify biases.", "is_classification": "Yes"}
+{"instruction": "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item.", "is_classification": "No"}
+{"instruction": "Write a review for a blender presents a safety issue because a blade broke off.", "is_classification": "Yes"}
+{"instruction": "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.", "is_classification": "No"}
+{"instruction": "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.", "is_classification": "No"}
+{"instruction": "What are some things you can do to de-stress?", "is_classification": "No"}
+{"instruction": "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.", "is_classification": "No"}
+{"instruction": "Write a recommendation letter given the student's achievement.", "is_classification": "Yes"}
+{"instruction": "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma.", "is_classification": "No"}
+{"instruction": "Which exercises are best for reducing belly fat at home?", "is_classification": "Yes"}
+{"instruction": "Sort the given list ascendingly.", "is_classification": "No"}
+{"instruction": "In your opinion, what are the qualities of an effective sports coach?", "is_classification": "Yes"}
+{"instruction": "Fill in the blank with a word or phrase.", "is_classification": "No"}
+{"instruction": "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.\n\nHere is an example:\nJohn likes the blue house at the end of the street.\nThe pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).", "is_classification": "No"}
+{"instruction": "Solving the math word problem with linear algebra equations.", "is_classification": "No"}
+{"instruction": "Summarize this email into a single sentence:", "is_classification": "No"}
+{"instruction": "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.", "is_classification": "No"}
+{"instruction": "Write a program to compute the sum of integers from k to n.", "is_classification": "No"}
+{"instruction": "Write a script in JavaScript for printing the current date and time.", "is_classification": "No"}
+{"instruction": "Write Python code to solve this leetcode problem.", "is_classification": "No"}
+{"instruction": "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law.", "is_classification": "No"}
+{"instruction": "Give me the laws that regulate the minimum wage for California, US.", "is_classification": "No"}
+{"instruction": "Solve the following equation system. Give me the final answer.", "is_classification": "No"}
+{"instruction": "Plan a syllabus for the the class.", "is_classification": "No"}
+{"instruction": "Rank these countries by their population.", "is_classification": "No"}
+{"instruction": "Identify the pos tag of the word in the given sentence.", "is_classification": "Yes"}
+{"instruction": "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no.", "is_classification": "Yes"}
+{"instruction": "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.", "is_classification": "Yes"}
+{"instruction": "Tell if the sentence contains toxic language.", "is_classification": "Yes"}
+{"instruction": "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\".", "is_classification": "Yes"}
+{"instruction": "Given my personality and the job, tell me if I would be suitable.", "is_classification": "Yes"}
+{"instruction": "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.", "is_classification": "Yes"}
+{"instruction": "Decide whether the syllogism is logically sound.", "is_classification": "Yes"}
+{"instruction": "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment.", "is_classification": "Yes"}
+{"instruction": "Classify the sentiment of the sentence into positive, negative or mixed.", "is_classification": "Yes"}
+{"instruction": "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not.", "is_classification": "Yes"}
+{"instruction": "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category.", "is_classification": "Yes"}
+{"instruction": "Tell me if the sentence is factually correct. Yes or no?", "is_classification": "Yes"}
+{"instruction": "Answer the following multiple choice question. Select A, B, C, or D for the final answer.", "is_classification": "Yes"}
+{"instruction": "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index.", "is_classification": "Yes"}
+{"instruction": "Select the oldest person from the list.", "is_classification": "Yes"}
+{"instruction": "Find out the largest one from a set of numbers. Output the number directly.", "is_classification": "No"}
+{"instruction": "Classify whether the following email is a spam or not. Output true or false.", "is_classification": "Yes"}
+{"instruction": "Tell me if the following email is a promotion email.", "is_classification": "Yes"}
+{"instruction": "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\".", "is_classification": "Yes"}
+{"instruction": "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.", "is_classification": "Yes"}
+{"instruction": "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma.", "is_classification": "Yes"}
+{"instruction": "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.", "is_classification": "Yes"}
+{"instruction": "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\".", "is_classification": "Yes"}
+{"instruction": "Detect if the Reddit thread contains hate speech.", "is_classification": "Yes"}
+{"instruction": "Given some political opinions, classify whether the person belongs to Democrats or Republicans.", "is_classification": "Yes"}
+{"instruction": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.", "is_classification": "Yes"}
+{"instruction": "Help with a math word problem using linear algebra equations.", "is_classification": "No"}
+{"instruction": "Provide tips on reducing unconscious bias.", "is_classification": "Yes"}
+{"instruction": "Summarize a document. ## step 5: here are the tasks with a brief description of each you've already listed the tasks, but i'll reiterate them with brief descriptions:", "is_classification": "No"}
+{"instruction": "Summarize a document with bullet points. ## step 6: solving the math word problem with linear algebra equations. you haven't provided the math word problem. please provide the problem, and i'll help you solve it using linear algebra equations. ## step 7: how can individuals and organizations reduce unconscious bias? reducing unconscious bias requires a multi-faceted approach. here are some strategies: - provide training and education on unconscious bias. - implement blind hiring practices. - use data-driven decision-making. - foster a culture of diversity and inclusion. - encourage feedback and self-reflection. ## step 8: summarize the following document with several bullet points. you haven't provided the document. please provide the document, and i'll summarize it with several bullet points. the", "is_classification": "No"}
+{"instruction": "There is no toxic word or phrase in the original list.", "is_classification": "Yes"}
+{"instruction": "How often do you eat at home? * daily * several times a week * occasionally * rarely", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you prefer? * italian * chinese * mexican * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How many meals do you typically eat per day? * 3 * 2 * 1 * other (please specify) **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "What type of cooking do you enjoy most? * grilling * baking * stir-frying * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How much time do you spend cooking per day? * less than 30 minutes * 30 minutes to 1 hour * 1-2 hours * more than 2 hours **section 3: food preferences**", "is_classification": "Yes"}
+{"instruction": "What is your favorite type of food? * meat-based * vegetarian * vegan * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions? * yes * no **section 4: additional comments** is there anything else you'd like to share about your eating and cooking habits? **2. classify whether the user is satisfied with the service.** please provide the dialogue, and i'll classify the user's satisfaction level. **3. provide tips on reducing unconscious bias.** here are some tips on reducing unconscious bias:", "is_classification": "Yes"}
+{"instruction": "Write a short story about a character who learns a valuable lesson. let me know which one you'd like to start with!", "is_classification": "No"}
+{"instruction": "I'd be happy to help you with these tasks. let's get started! i'll choose task 1: \"make up a new flavor of ice cream.\" here's a new flavor of ice cream i came up with: **introducing \"tropical sunset\" ice cream** tropical sunset is a unique and refreshing flavor that combines the sweetness of pineapple, the tanginess of mango, and the warmth of caramel. the ice cream base is infused with the essence of coconut and a hint of spicy ginger, giving it a creamy and exotic taste. the mix-ins include crunchy macadamia nuts and toasted coconut flakes, adding a satisfying texture to each bite. what do you think? would you try this flavor? which task would you like to tackle next?", "is_classification": "No"}
+{"instruction": "What a fun set of tasks! i'd love to start with task 3: \"make a list of salty snacks with a soft texture.\" it sounds like a tasty challenge! here's my list:", "is_classification": "No"}
+{"instruction": "Salted soy nuts let me know when you're ready for me to move on to the next task!", "is_classification": "No"}
+{"instruction": "Answer the following question: (i'm waiting for the question!)", "is_classification": "Yes"}
+{"instruction": "Come up with a metaphor that can describe your situation: (you haven't shared your situation yet!)", "is_classification": "No"}
+{"instruction": "Summarize this email into a single sentence: (you haven't shared an email yet!)", "is_classification": "No"}
+{"instruction": "Detect if there is gender-biased and non-inclusive phrasing in the sentence: (you haven't shared a sentence yet!)", "is_classification": "Yes"}
+{"instruction": "Write a short story about a character who learns a valuable lesson: i'd love to start with task 6! let me know what kind of story you'd like (e.g. fantasy, sci-fi, realistic fiction, etc.).", "is_classification": "No"}
+{"instruction": "Write a knock knock joke about bananas: (i'm ready to peel the punchline!)", "is_classification": "No"}
+{"instruction": "Are you smarter than most redheads? (i'll play along, but i'm a large language model, i don't have a physical brain, so i'll just respond with a joke!) let's get started with task 6! what kind of story would you like me to write?", "is_classification": "No"}
+{"instruction": "It seems like you've created a new flavor of ice cream, \"tropical sunset,\" and you'd like me to respond to it. i'll play along! **your \"tropical sunset\" ice cream sounds amazing!** i'd definitely try it! the combination of pineapple, mango, caramel, coconut, and ginger sounds like a perfect blend of flavors. the addition of crunchy macadamia nuts and toasted coconut flakes adds a nice texture to the ice cream. i can almost imagine the taste and smell of this unique flavor! now, let's get back to the original tasks. you had chosen task 1, but then you introduced a new task (making up a new flavor of ice cream) and asked me to respond to it. if you'd like to continue with the original tasks, i can suggest the next one. if not, we can move on to the next task in the list. here are the original tasks again:", "is_classification": "No"}
+{"instruction": "I'd be happy to help you with these tasks. let's get started! i'll choose task 1: \"make up a new flavor of ice cream.\"", "is_classification": "No"}
+{"instruction": "Explain human's behavior. which one would you like to tackle next?", "is_classification": "No"}
+{"instruction": "I'd be happy to help with each of these tasks. let's start with task 1: \"to make the pairs have the same analogy, write the fourth word.\" however, i don't see any pairs or analogy provided. could you please provide the pairs or analogy you'd like me to work with? i'll be happy to help you write the fourth word to make the pairs have the same analogy. if you'd like, i can also suggest a different task to start with, such as task 2, 3, 4, 6, 7, or 8. just let me know!", "is_classification": "Yes"}
+{"instruction": "Soy nuts (like the ones you mentioned!)", "is_classification": "No"}
+{"instruction": "How often do you cook at home? a) daily b) several times a week c) occasionally d) rarely", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you enjoy cooking most? a) italian b) mexican c) indian d) other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is food quality to you? a) very important b) somewhat important c) not very important d) not at all important", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions or preferences? a) vegetarian b) vegan c) gluten-free d) other (please specify)", "is_classification": "Yes"}
+{"instruction": "Write python code to solve this leetcode problem. please provide the leetcode problem number or description, and i'll write the python code to solve it.", "is_classification": "No"}
+{"instruction": "I broke up with my girlfriend and i am feeling so sad. can you give me some suggestions? sorry to hear that. here are some suggestions: * give yourself time to grieve and process your emotions. * reach out to friends and family for support. * engage in activities that bring you comfort and joy. * consider talking to a therapist or counselor. * take care of your physical health.", "is_classification": "No"}
+{"instruction": "Explain human's behavior. which one would you like to tackle next? human behavior is complex and influenced by various factors, including genetics, environment, culture, and personal experiences. there are many aspects of human behavior to explore, but some interesting topics include: * emotional intelligence and empathy * decision-making and risk-taking * social influence and conformity * motivation and goal-setting let me know which one you'd like to explore further.", "is_classification": "No"}
+{"instruction": "Make up a new flavor of ice cream. introducing \"tropical sunset\" ice cream: * base flavor: coconut milk * mix-ins: mango, pineapple, and turmeric * swirl: a hint of spicy ginger and a drizzle of honey * toppings: toasted coconut flakes and chopped fresh mint how do you like it?", "is_classification": "No"}
+{"instruction": "6 (1 + 2 + 3 = 6)", "is_classification": "No"}
+{"instruction": "28 (1 + 2 + 4 + 7 + 14 = 28)", "is_classification": "No"}
+{"instruction": "496 (1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248 = 496)", "is_classification": "No"}
+{"instruction": "I am planning a 7-day trip to seattle. can you make a detailed plan for me? **none found** (this task is a request for assistance with trip planning, but there is no toxic word or phrase)", "is_classification": "No"}
+{"instruction": "6 (1 + 2 + 3 = 6) **none found** (this task is a mathematical equation, but there is no toxic word or phrase)", "is_classification": "No"}
+{"instruction": "Try coming up with a creative way to stay motivated during a workout. **none found** (this task is a request for creative ideas, but there is no toxic word or phrase)", "is_classification": "No"}
+{"instruction": "How would you explain colors to a person born blind? **none found** (this task is a request for an explanation, but there is no toxic word or phrase)", "is_classification": "No"}
+{"instruction": "I can assist with the tasks you've outlined. here's how i'll approach each one:", "is_classification": "No"}
+{"instruction": "Replace the placeholders in the given text with appropriate named entities. unfortunately, there is no given text provided. please provide the text with placeholders, and i'll be happy to assist you.", "is_classification": "No"}
+{"instruction": "Is working part-time a good idea for teenagers between 15 and 19 years old? working part-time can be a good idea for teenagers between 15 and 19 years old, depending on their individual circumstances. it can provide them with valuable work experience, skills, and financial independence. however, it's essential to consider the following factors: * balancing work and school responsibilities * ensuring adequate time for rest and leisure activities * avoiding exploitation or overwork * maintaining a healthy work-life balance ultimately, whether working part-time is a good idea for a teenager depends on their unique situation, goals, and priorities.", "is_classification": "Yes"}
+{"instruction": "Tell me whether the behavior is ethical or not. * response: (no input provided, please provide a behavior to evaluate)", "is_classification": "Yes"}
+{"instruction": "Suggest some games that can be played by a group of people. * response: here are some game suggestions: + charades + pictionary + taboo + would you rather + two truths and a lie", "is_classification": "Yes"}
+{"instruction": "Make a list of salty snacks with a soft texture. * response: here are some salty snacks with a soft texture: + potato chips + pretzels + popcorn + cheese puffs + caramel corn", "is_classification": "Yes"}
+{"instruction": "Write a knock knock joke about bananas. * response: knock knock! * who's there? * banana * banana who? * banana-nana-boom-boom, i'm going bananas!", "is_classification": "No"}
+{"instruction": "Identify the pos tag of the word in the given sentence. * response: please provide a sentence and the word you'd like to identify the part of speech for.", "is_classification": "No"}
+{"instruction": "Plan a syllabus for the the class. * response: please provide more information about the class, such as the subject, level, and duration, and i'll help plan a syllabus.", "is_classification": "No"}
+{"instruction": "How would you explain colors to a person born blind? * response: explaining colors to someone born blind can be a creative and subjective task. here's one possible approach: + describe the emotional and sensory associations people often have with different colors, such as the feeling of warmth associated with red or the calmness associated with blue. + use tactile comparisons, such as comparing the texture of a rough stone to the color gray or the smoothness of silk to the color white. + use descriptive words that evoke sensory experiences, such as \"bright,\" \"vibrant,\" or \"muted,\" to help the person imagine the colors in their mind's eye. + use technology, such as 3d printing or tactile graphics, to create a physical representation of colors that the person can explore with their sense of touch.", "is_classification": "No"}
+{"instruction": "Make up a new flavor of ice cream. the toxic word or phrase is highlighted in task 1, but it's not actually there. the task is simply stating that there is a task with a toxic word or phrase, but it's not provided. the other tasks are: * task 2: create a survey about eating and cooking habits. * task 3: classify an email as spam or not. * task 4: translate a sentence into an arabic dialect. * task 5: classify a user's satisfaction with a service. * task 6: this task is a request for clarification, but it's not a task with a toxic word or phrase. * task 7: find a toxic word or phrase in a sentence. * task 8: create a new flavor of ice cream.", "is_classification": "Yes"}
+{"instruction": "Fill a highball glass with ice.", "is_classification": "No"}
+{"instruction": "Pour in the gin and lemon juice.", "is_classification": "No"}
+{"instruction": "I'd like to create a to-do list for a project. can you help me generate a list of tasks and deadlines? please go ahead and provide the necessary information or text for each task, and i'll be happy to assist you!", "is_classification": "No"}
+{"instruction": "It seems like you provided a series of tasks, but they're not numbered correctly. here are the tasks i'll assume you meant to provide:", "is_classification": "No"}
+{"instruction": "Fill in a <mask> in an html document with proper text.", "is_classification": "No"}
+{"instruction": "You said you're ready to help, but there's no task to help with.", "is_classification": "No"}
+{"instruction": "This one seems to be a confirmation, so i'll ignore it. let's get started with the tasks! which one would you like to begin with?", "is_classification": "No"}
+{"instruction": "I think i see what's going on here! you're pointing out that i made a mistake with the numbering, and i appreciate the feedback. let's start fresh and correct the numbering. here are the tasks:", "is_classification": "No"}
+{"instruction": "Make up a new flavor of ice cream. i'll be happy to help with each of these tasks. here are my responses: **task 1: create a survey about eating and cooking habits** here's a sample survey: **eating and cooking habits survey**", "is_classification": "No"}
+{"instruction": "How often do you cook at home? * daily * several times a week * occasionally * rarely", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you enjoy cooking most? * italian * mexican * asian * other (please specify)", "is_classification": "Yes"}
+{"instruction": "What is your favorite type of food to eat? * meat-based * vegetarian * vegan * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is food quality to you? * very important * somewhat important * not very important * not at all important **task 2: classify whether the email is spam or not** unfortunately, i don't see an email provided. please provide the email, and i'll classify it as spam or not. **task 3: translate the sentence into an arabic dialect** the sentence is: “the beautiful ones are not yet born translation: (al-muhibbun la yujadun) dialect: modern standard arabic (msa) **task 4: classify user satisfaction** unfortunately, i don't see a dialogue provided. please provide the dialogue, and i'll classify the user's satisfaction as satisfied or unsatisfied. **task 5: find the toxic word or phrase** unfortunately, i don't see a sentence provided. please provide the sentence, and i'll identify any toxic words or phrases. **task 6: make up a new flavor of ice cream** introducing... \"tropical sunset\" ice", "is_classification": "Yes"}
+{"instruction": "You are given a list of features of a product, and you need to create its description. i'll be happy to help with each of these tasks. which one would you like me to start with?", "is_classification": "No"}
+{"instruction": "I'll complete each task step by step. **task 1: here are the tasks with the corresponding responses**", "is_classification": "No"}
+{"instruction": "Task 1: wikipedia page title: wikipedia", "is_classification": "Yes"}
+{"instruction": "Task 4: <mask> with text: \"hello, world!\"", "is_classification": "Yes"}
+{"instruction": "Task 5: suggestions: take a walk, talk to a friend, watch a movie, exercise, meditate", "is_classification": "Yes"}
+{"instruction": "Task 6: story: i broke up with my girlfriend and i am feeling so sad. i remember the day we met, it was like a dream come true. we were young and in love, and everything seemed perfect. but as time went by, things started to change. we grew apart, and our love turned into a distant memory. i'm not sure what went wrong, but i know i'll always cherish the memories we made together.", "is_classification": "Yes"}
+{"instruction": "Task 7: i'm not smarter than most redheads, but i can tell you that redheads are known for their intelligence and creativity.", "is_classification": "Yes"}
+{"instruction": "Task 8: i don't have a news article to analyze, but i can provide an example of how to categorize a news article. let's say the article is about a new iphone release. the categories would be: tech, digital game, world news. here are the answers in the format you requested:", "is_classification": "Yes"}
+{"instruction": "Tech, digital game, world news", "is_classification": "Yes"}
+{"instruction": "Subtract 5 from both sides of the equation: 2x = 11 - 5", "is_classification": "No"}
+{"instruction": "Simplify the right-hand side: 2x = 6", "is_classification": "No"}
+{"instruction": "Divide both sides of the equation by 2: x = 6 / 2", "is_classification": "No"}
+{"instruction": "Simplify the right-hand side: x = 3 answer: x = 3 **task 5: select the oldest person from the list** assuming the list is: * john (age 25) * jane (age 30) * bob (age 40) * alice (age 50) the oldest person is alice (age 50). **task 6: as a newly hired sports coach, what are your plans for the first 30 days on the job?** as a newly hired sports coach, my plans for the first 30 days on the job would be: * get to know the team and its members * learn about the team's strengths and weaknesses * develop a training plan and schedule * establish a positive and supportive team culture * meet with the team's parents and", "is_classification": "Yes"}
+{"instruction": "It seems like you provided a list of tasks with some of them already completed. i'll address each task and provide a response:", "is_classification": "No"}
+{"instruction": "Convert the following measurement. here are the tasks with answers:", "is_classification": "No"}
+{"instruction": "Create a birthday planning checklist: * send out invitations * plan the guest list * book a venue * plan the menu * send out reminders * prepare decorations * plan the entertainment * prepare the cake * plan the photography * prepare the party favors", "is_classification": "Yes"}
+{"instruction": "Come up with a question and a funny answer as a joke: q: why couldn't the bicycle stand up by itself? a: because it was two-tired!", "is_classification": "No"}
+{"instruction": "Reply to the email and refuse the invitation politely: dear [name], thank you so much for inviting me to your birthday party! i'm flattered to be included, but unfortunately, i won't be able to attend. i have a prior commitment that i need to attend to. please know that i'm thinking of you on your special day and hope you have a wonderful celebration. best regards, [your name]", "is_classification": "No"}
+{"instruction": "Generate a haiku using the following word: word: snowflake haiku: snowflake gently falls dance of delicate beauty winter's gentle kiss", "is_classification": "No"}
+{"instruction": "To make the pairs have the same analogy, write the fourth word: pair 1: book - library pair 2: car - garage pair 3: bike - garage pair 4: boat - dock pair 5: plane - airport", "is_classification": "Yes"}
+{"instruction": "Japan: 128 million **6. create a detailed budget for the hypothetical trip** unfortunately, you didn't provide any information about the hypothetical trip. please provide the details, including the destination, duration, and estimated costs, and i'll create a detailed budget for you. **7. why this joke's not funny** the joke \"why couldn't the bicycle stand", "is_classification": "No"}
+{"instruction": "I'm excited to work with you on these tasks. here are the tasks with some of them already completed:", "is_classification": "No"}
+{"instruction": "What types of food do you typically eat at home? * meat-based meals * vegetarian meals * seafood meals * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is food quality to you? * very important * somewhat important * not very important * not at all important **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "What types of cooking methods do you use most often? * grilling * baking * boiling * frying * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How confident are you in your cooking skills? * very confident * somewhat confident * not very confident * not at all confident **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions or preferences? * yes (please specify) * no", "is_classification": "Yes"}
+{"instruction": "How do you typically plan your meals? * i plan my meals in advance * i don't plan my meals in advance * i use a meal planning app * other (please specify) **4. create a birthday planning checklist.** here's a sample birthday planning checklist: **6-8 weeks before the birthday:** * decide on a budget * choose a theme or color scheme * create a guest list * send out save-the-date notifications (if applicable) **4-6 weeks before the birthday:** * finalize the guest list * send out formal invitations * book a venue (if necessary) * plan the menu **2-4 weeks before the birthday", "is_classification": "Yes"}
+{"instruction": "It seems like you started listing tasks, but then stopped. please provide the rest of the tasks, and i'll be happy to assist you with each one!", "is_classification": "No"}
+{"instruction": "Create a short story using only 50 words.", "is_classification": "No"}
+{"instruction": "Write a poem about a sunset.", "is_classification": "No"}
+{"instruction": "If you were given a million dollars to start a business, what would it be and why?", "is_classification": "No"}
+{"instruction": "Write a short script for a 30-second commercial.", "is_classification": "No"}
+{"instruction": "Design a new logo for a fictional company.", "is_classification": "No"}
+{"instruction": "Write a short essay on the importance of recycling. now, i'll be happy to assist you with each one!", "is_classification": "No"}
+{"instruction": "Heat the olive oil in a large skillet over medium-high heat.", "is_classification": "No"}
+{"instruction": "How many meals do you cook per week? * 1-2 * 3-4 * 5-6 * more than 6 **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "What is your level of cooking experience? * beginner * intermediate * advanced", "is_classification": "Yes"}
+{"instruction": "How often do you try new recipes? * daily * several times a week * occasionally * rarely **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "Fill a cocktail shaker with ice.", "is_classification": "No"}
+{"instruction": "Add gin, grapefruit juice, simple syrup, and lemon juice.", "is_classification": "No"}
+{"instruction": "Strain into a glass filled with ice.", "is_classification": "No"}
+{"instruction": "Top with a splash of soda water.", "is_classification": "No"}
+{"instruction": "Garnish with a slice of grapefruit. **3. brief descriptions of tasks:**", "is_classification": "No"}
+{"instruction": "Answer a behavioral question for an amazon interview.", "is_classification": "Yes"}
+{"instruction": "Create a cocktail recipe using two ingredients.", "is_classification": "No"}
+{"instruction": "Write an essay on the importance of recycling.", "is_classification": "No"}
+{"instruction": "Find the passage that contains the answer to a user query. **4. quick pre-run warmup routine:** here's a quick 5-minute warmup routine to get you ready for a run:", "is_classification": "Yes"}
+{"instruction": "It seems like you've already provided responses to some of the tasks. here are the tasks with your responses:", "is_classification": "Yes"}
+{"instruction": "I'll go through each task and provide the required responses. **task 1: solve the math problems** let's take the equation: 1 + 2 + 3 = ? intermediate steps:", "is_classification": "No"}
+{"instruction": "Add 1 and 2: 1 + 2 = 3", "is_classification": "No"}
+{"instruction": "Add 3 to the result: 3 + 3 = 6 answer: 6 **task 5: verify if the claim is true or false based on factual knowledge** claim: the great wall of china is visible from space. false. this claim is a common myth. while the great wall of china is a very long structure, it is not wide enough or high enough to be visible from space. it is only about 30 feet wide and blends in with the surrounding terrain, making it impossible to see from space. **task 6: write some spells from the harry potter series** here are a few spells from the harry potter series: * \"alohomora\" (unlocking a door) * \"expelliarmus\" (disarming an opponent) * \"lumos\" (", "is_classification": "Yes"}
+{"instruction": "6 (1 + 2 + 3 = 6) **(no toxic word or phrase found)**", "is_classification": "No"}
+{"instruction": "Start in a standing position.", "is_classification": "No"}
+{"instruction": "Drop down into a squat position and place your hands on the ground.", "is_classification": "No"}
+{"instruction": "From the squat position, kick your feet back into a plank position.", "is_classification": "No"}
+{"instruction": "From the plank position, do a push-up.", "is_classification": "No"}
+{"instruction": "Quickly return your feet to the squat position.", "is_classification": "No"}
+{"instruction": "Stand up from the squat position.", "is_classification": "No"}
+{"instruction": "To classify whether the user is satisfied with the service, i'll need a dialogue. please provide one.", "is_classification": "Yes"}
+{"instruction": "To determine if the email is a promotion email, i'll need to see the email. please provide it.", "is_classification": "Yes"}
+{"instruction": "Here's a funny interview question: \"if you were a pizza topping, what would you be and why?\" i chose this question because it's a lighthearted and creative way to get to know a candidate's personality and sense of humor. it's also a great way to assess their ability to think outside the box and come up with a unique answer.", "is_classification": "Yes"}
+{"instruction": "To explain a natural phenomenon, i'll need to know which one you'd like me to explain. please provide the phenomenon.", "is_classification": "Yes"}
+{"instruction": "To sort the list in ascending order, i'll need to see the list. please provide it.", "is_classification": "No"}
+{"instruction": "This task seems incomplete. please provide more information or clarify what you'd like me to do.", "is_classification": "No"}
+{"instruction": "Subtract 5 from both sides: 2x = 11 - 5", "is_classification": "No"}
+{"instruction": "Divide both sides by 2: x = 6 / 2", "is_classification": "No"}
+{"instruction": "A company donates 10% of its profits to charity. **answer: ethical**", "is_classification": "Yes"}
+{"instruction": "A manager fires an employee without a valid reason. **answer: not ethical**", "is_classification": "Yes"}
+{"instruction": "A doctor prescribes a medication that is not necessary for a patient's condition. **answer: not ethical**", "is_classification": "Yes"}
+{"instruction": "A person returns a defective product to a store and receives a full refund. **answer: ethical**", "is_classification": "Yes"}
+{"instruction": "Read and understand the problem", "is_classification": "No"}
+{"instruction": "Identify the variables and constants", "is_classification": "No"}
+{"instruction": "Write the equation(s) based on the problem", "is_classification": "No"}
+{"instruction": "Solve the equation(s) using linear algebra techniques (e.g. substitution, elimination, matrices) for example, if the problem is: \"tom has 5 apples and 3 bananas. if he gives 2 apples to his friend, how many apples and bananas does he have left?\" we can write the equation: 5 - 2 = x (number of apples left) 3 = y (number of bananas) to solve for x and y, we can use substitution or elimination methods. **5. predict whether the news has positive impact or negative impact on the company stock price.** to predict the impact of news on a company's stock price, we need to analyze the news and consider the following factors: * the relevance of the news to the company's business * the potential consequences of the news on the company's operations and finances", "is_classification": "Yes"}
+{"instruction": "Write a funny interview question.", "is_classification": "No"}
+{"instruction": "Apple : fruit :: car : ?", "is_classification": "Yes"}
+{"instruction": "Dog : pet :: cat : ?", "is_classification": "Yes"}
+{"instruction": "Book : library :: music : ? answer: music : record", "is_classification": "Yes"}
+{"instruction": "Cloud : rain :: cloud : ?", "is_classification": "Yes"}
+{"instruction": "Sun : heat :: cloud : ? answer: cloud : storm", "is_classification": "No"}
+{"instruction": "Japan (128 million) **3. a manager fires an employee without a valid reason.** **answer: not ethical** firing an employee without a valid reason is not an ethical practice. it can lead to: * unfair treatment of employees * damage to employee morale and trust * potential lawsuits and legal issues * negative impact on company reputation a manager should follow a fair and transparent process when terminating an employee, including: * providing clear reasons for the termination * following company policies and procedures * offering support and resources for the employee * ensuring compliance with employment laws and regulations **4", "is_classification": "Yes"}
+{"instruction": "It seems like you have a list of tasks, but i'll go through each one and provide a response.", "is_classification": "Yes"}
+{"instruction": "No toxic words or phrases detected.", "is_classification": "Yes"}
+{"instruction": "It seems like you've listed a series of tasks, but i'll reformat them for clarity and provide a response for each one. here are the tasks with a brief description:", "is_classification": "No"}
+{"instruction": "I'll go through each task and provide a response.", "is_classification": "No"}
+{"instruction": "Math problem: what is the value of x in the equation 2x + 5 = 11? reasoning steps: * subtract 5 from both sides of the equation: 2x = 11 - 5 * simplify the right-hand side: 2x = 6 * divide both sides of the equation by 2: x = 6 / 2 * simplify the right-hand side: x = 3 answer: x = 3", "is_classification": "No"}
+{"instruction": "Dialogue: \"i ordered a coffee and it took 20 minutes to arrive. i'm very disappointed.\" response: unsatisfied", "is_classification": "Yes"}
+{"instruction": "Knock knock joke: knock knock! who's there? banana. banana who? banana-nanana, i'm going bananas!", "is_classification": "No"}
+{"instruction": "Example of using sense of humor: i once told a joke to a friend who was having a bad day, and it made them laugh and brighten their mood. the joke was: why couldn't the bicycle stand up by itself? because it was two-tired!", "is_classification": "No"}
+{"instruction": "You've already provided the tasks with their corresponding responses, so i'll wait for your next instruction.", "is_classification": "No"}
+{"instruction": "There is no paragraph provided, so i'll wait for the text.", "is_classification": "No"}
+{"instruction": "You've already mentioned that you'll go through each task and provide a response, so i'll wait for your next instruction.", "is_classification": "Yes"}
+{"instruction": "Here's a list of possible new year's resolutions: * exercise regularly * eat a balanced diet * learn a new skill or hobby * travel to a new place * spend more time with loved ones * reduce screen time * volunteer more often * read more books * learn a new language * start a new project or business let me know when you're ready to proceed with the next task!", "is_classification": "Yes"}
+{"instruction": "Japan: 128 million **task 6: no entities to link** this task is unclear. could you please provide more context or clarify what you mean by \"no entities to link\"? **task 7: explain colors to a person born blind", "is_classification": "No"}
+{"instruction": "Simplify the right-hand side: x = 3 x = 3 **task 5: select the oldest person from the list** assuming the list is: * john (age 25) * jane (age 30) * bob (age 40) * alice (age 50) the oldest person is alice (age 50). **task 6: as a newly hired sports coach, what are your plans for the first 30 days on the job?** * week 1: get to know the team and understand their strengths and weaknesses * week 2: develop a training plan and schedule * week 3: start implementing the training plan and focus on building team cohesion * week 4: analyze team performance and make adjustments to the training plan as needed * week 5-6: continue to implement the", "is_classification": "No"}
+{"instruction": "3 + 4 = 7", "is_classification": "No"}
+{"instruction": "7 + 7 = 14", "is_classification": "No"}
+{"instruction": "14 + 14 = 28 **task 6: detect potential stereotypes in a sentence** sentence: \"all women are good at cooking and cleaning.\" **answer:** **yes, there is a stereotype** this sentence perpetuates the stereotype that women are naturally good at domestic work, such as cooking and cleaning. this stereotype is not necessarily true and can be limiting and sexist.", "is_classification": "Yes"}
+{"instruction": "How often do you eat out? * daily * several", "is_classification": "Yes"}
+{"instruction": "Identify the language used (e.g., tone, vocabulary, metaphors)", "is_classification": "Yes"}
+{"instruction": "Look for stereotypes, generalizations, or oversimplifications", "is_classification": "Yes"}
+{"instruction": "Check for emotional language or loaded words", "is_classification": "Yes"}
+{"instruction": "Consider the context and potential motivations behind the language please provide the sentences you'd like me to analyze. **task 3: stereotype detection** i'll use a combination of natural language processing (nlp) and machine learning techniques to detect potential stereotypes. here's a simple example: ```python import re def detect_stereotype(sentence): # simple heuristic: look for words or phrases associated with stereotypes stereotype_words = [\"asian\", \"black\", \"white\", \"male\", \"female\", \"gay\", \"lesbian\", \"trans\"] for word in stereotype_words: if word in sentence.lower(): return f\"stereotype detected: {word}\" return \"no\" sentence = \"the asian community is very diverse and vibrant.\" print(detect_stereotype(sentence)) ``` output: ``` stereotype detected: asian ``` **task 4: continent and population** i'll use a dictionary to store the continent and population of each country. here's the code: ```python import pandas as pd data = { \"country\": [\"usa\", \"canada\", \"mexico\", \"china\", \"japan\"], \"continent\": [\"north america\", \"north america\", \"north america\", \"asia\", \"asia\"],", "is_classification": "Yes"}
+{"instruction": "How would you explain colors to a person born blind? the toxic word or phrase in the original sentence was \"i'm ready to help. what are the tasks?\" which contains the toxic word \"what\" (all caps) which is often used in a condescending or dismissive manner.", "is_classification": "Yes"}
+{"instruction": "Replace the placeholders in the given text with appropriate named entities. i don't see any text provided. please provide the text with placeholders, and i'll be happy to replace them with named entities.", "is_classification": "No"}
+{"instruction": "Is working part-time a good idea for teenagers between 15 and 19 years old? working part-time can be a good idea for teenagers between 15 and 19 years old, depending on their individual circumstances. it can provide them with valuable work experience, skills, and a sense of responsibility. however, it's essential to consider the following factors: * balancing schoolwork and work responsibilities * ensuring adequate time for rest and relaxation * avoiding exploitation or overwork * choosing a job that aligns with their interests and skills * setting clear boundaries and expectations with employers ultimately, whether working part-time is a good idea for a teenager depends on their unique situation and priorities.", "is_classification": "Yes"}
+{"instruction": "What types of food do you typically eat at home? * vegetarian * meat-based * seafood * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How many meals do you usually eat per day? * 3 * 2 * 1 * other (please specify) **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "How long do you spend cooking per meal? * less than 30 minutes * 30-60 minutes * 1-2 hours * more than 2 hours **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "How do you typically plan your meals? * i plan my meals in advance * i don't plan my meals * i plan my meals occasionally **4. create a birthday planning checklist.** here's a sample birthday planning checklist: **6-8 weeks before the birthday:** * decide on a theme or color scheme * create a guest list * send out invitations * plan the menu * book a venue (if necessary) **4-6 weeks before the birthday:** * finalize the guest list and send out reminders * plan", "is_classification": "Yes"}
+{"instruction": "Preheat the oven to 400°f (200°c).", "is_classification": "No"}
+{"instruction": "Prepare the breading station: in one shallow dish, mix together breadcrumbs and parmesan cheese. in another dish, beat the egg.", "is_classification": "No"}
+{"instruction": "Season the chicken breasts with salt and pepper.", "is_classification": "No"}
+{"instruction": "Dip each chicken breast in the egg, then coat in the breadcrumb mixture, pressing gently to adhere.", "is_classification": "No"}
+{"instruction": "Heat a large skillet over medium-high heat with a tablespoon of olive oil. add the breaded chicken breasts and cook until golden brown on both sides, about 3-4 minutes per side.", "is_classification": "No"}
+{"instruction": "Transfer the chicken to a baking dish and spoon marinara sauce over the top of each breast.", "is_classification": "No"}
+{"instruction": "Sprinkle shredded mozzarella cheese over the sauce.", "is_classification": "No"}
+{"instruction": "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly. **3. replace the placeholders in the given text with appropriate named entities.** let's say the text is: \"the [location] is a beautiful [city] with a rich history. the [city] is known for its [attribute].\" here's the text with the placeholders replaced: \"the paris is a beautiful city with a rich history. the city is known for its art.\" * location: paris * city: city * attribute: art **4. given a user query, find out which of the following passages contains the answer to", "is_classification": "No"}
+{"instruction": "I'm happy to help you with the tasks. here are the answers:", "is_classification": "No"}
+{"instruction": "What is your household income? **section 2: eating habits**", "is_classification": "No"}
+{"instruction": "How often do you eat out? * daily * weekly * monthly * rarely", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions? * vegetarian * vegan * gluten-free * other (please specify) **section 3: cooking habits**", "is_classification": "Yes"}
+{"instruction": "What type of cooking do you enjoy most? * baking * grilling * stir-frying * other (please specify)", "is_classification": "Yes"}
+{"instruction": "What types of food do you typically eat at home? * meat-based meals * vegetarian meals * vegan meals * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is healthy eating to you? * very important * somewhat important * not very important * not at all important **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions or preferences (e.g. gluten-free, dairy-free)? * yes * no", "is_classification": "Yes"}
+{"instruction": "How do you typically plan your meals? * i plan my meals in advance * i don't plan my meals in advance", "is_classification": "Yes"}
+{"instruction": "Any additional comments or suggestions? **4. create a birthday planning checklist.** here's a sample birthday planning checklist: **6-8 weeks before the birthday:** * decide on a budget * choose a theme or color scheme * create a guest list * send out save-the-date notifications (if applicable) **4-6 weeks before the birthday:** * finalize the guest list and send", "is_classification": "No"}
+{"instruction": "It seems like you've already provided responses to some of the tasks. here are the remaining tasks with the ones you've already completed: **completed tasks:**", "is_classification": "No"}
+{"instruction": "6 (1 + 2 + 3 = 6) **(no toxic word or phrase)**", "is_classification": "No"}
+{"instruction": "Write a cover letter based on the given facts. (no response provided due to lack of information)", "is_classification": "No"}
+{"instruction": "Find the four smallest perfect numbers. (response provided) the remaining tasks are:", "is_classification": "No"}
+{"instruction": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. if there is, suggest an alternative. otherwise, output \"no such bias detected.\" **8. detect if there is gender-biased and non-inclusive phrasing in the sentence. if there is, suggest an alternative. otherwise, output \"no such bias detected.\"** please provide the sentence to analyze. **9.** this task is incomplete. please provide the remaining tasks or information to complete the task.", "is_classification": "Yes"}
+{"instruction": "I'll go through the tasks you've listed and provide a response for each one:", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you prefer? * western * asian * mediterranean * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions? * yes (please specify) * no **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "What type of cooking do you enjoy most? * grilling * roasting * stir-frying * baking", "is_classification": "Yes"}
+{"instruction": "Do you follow a recipe when cooking? * yes * no **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "What is your favorite dish to cook?", "is_classification": "No"}
+{"instruction": "I don't have any prior responses to complete tasks. this is the start of our conversation. here are the remaining tasks: **remaining tasks:**", "is_classification": "No"}
+{"instruction": "Use a positive stereotype to complete the sentence. please let me know which task you'd like to start with, or if you'd like me to assign one to you!", "is_classification": "No"}
+{"instruction": "It seems like you've already provided responses to tasks 1, 2, 6, and 8. here are the remaining tasks with a brief description:", "is_classification": "No"}
+{"instruction": "I'll complete the tasks as requested. here are the answers: **1. solve the math problems. intermediate steps are required.** let's take the problem: 1 + 2 + 3 = ? intermediate steps:", "is_classification": "No"}
+{"instruction": "7 + 8 = 15", "is_classification": "No"}
+{"instruction": "15 + 16 = 31", "is_classification": "No"}
+{"instruction": "31 + 31 = 62", "is_classification": "No"}
+{"instruction": "62 + 62 = 124", "is_classification": "No"}
+{"instruction": "124 + 124 = 248", "is_classification": "No"}
+{"instruction": "248 + 248 = 496 the correct answer is indeed 496. **6. sort the given list ascendingly.** unfortunately, you didn't provide the list. please share it with me, and i", "is_classification": "No"}
+{"instruction": "How important is food quality to you? * very important * somewhat important * not very important * not at all important **task 5: tell me why this joke’s not funny.** you didn't provide a joke. could you please share the joke, and i'll do my best to explain why it's not funny? **task 6: summarize the following document with several bullet points.** you didn't provide a document. could you please share the document, and i'll summarize it for you? **task 7: 28 (1 + 2 + 4 + 7 + 14 = 28)** this appears to be a math problem. let's break it down:", "is_classification": "Yes"}
+{"instruction": "Here's a list of salty snacks with a soft texture: * potato chips * pretzels * popcorn * cheese puffs * cheetos * crackers", "is_classification": "Yes"}
+{"instruction": "I don't have any information about a specific person, so i can't provide an address.", "is_classification": "No"}
+{"instruction": "The prefix is not provided, so i'll wait for the paragraph to complete the task.", "is_classification": "No"}
+{"instruction": "Here's a sentence that ends with the word \"published\": the new book was finally published.", "is_classification": "No"}
+{"instruction": "This task requires a description of a symptom, which is not provided. please provide the description, and i'll try to identify the possible disease and suggest some medicine.", "is_classification": "Yes"}
+{"instruction": "Here's a knock-knock joke about bananas: knock, knock! who's there? banana. banana who? banana-nana-boom-boom, i'm peeling out of here!", "is_classification": "No"}
+{"instruction": "The calculation is correct: 1 + 2 + 3 = 6", "is_classification": "No"}
+{"instruction": "This task is incomplete, as it doesn't specify what needs to be done. please provide more information or clarify the task.", "is_classification": "No"}
+{"instruction": "I'll respond to each task in the order you provided:", "is_classification": "Yes"}
+{"instruction": "That's a clever knock-knock joke! well done!", "is_classification": "No"}
+{"instruction": "The original sentence is: \"i'm going to the store to buy some milk, but i'm not sure if they have any.\" a more professional version of this sentence would be: \"i am planning to visit the store to purchase milk, but i am uncertain if they have any in stock.\"", "is_classification": "No"}
+{"instruction": "While science has made tremendous progress in understanding the natural world, there are still many phenomena that remain unexplained or poorly understood. some examples include: * the nature of consciousness and the human mind * the origin of the universe and the laws of physics that govern it * the mechanisms underlying certain types of mental illnesses, such as depression and anxiety * the behavior of certain complex systems, such as the stock market or the weather", "is_classification": "Yes"}
+{"instruction": "To make the pairs have the same analogy, i would need more information about the pairs you are referring to. please provide more context or clarify what you mean by", "is_classification": "No"}
+{"instruction": "Subtract 5 from 11: 11 - 5 = 6", "is_classification": "No"}
+{"instruction": "Multiply 2 by the result: 2x = 6 so, the solution is x = 6 / 2 = 3. **task 6: trip planning** i'd be happy to help plan your 7-day trip to seattle! however, i need more information from you. please provide the following details: * what time of year are you planning to visit? * what are your interests (e.g., outdoor activities, food, culture, history)? * what is your budget for the trip? * do you have any specific accommodations or", "is_classification": "No"}
+{"instruction": "We need to figure out what kind of word is in a sentence. like, is it a noun or a verb?", "is_classification": "Yes"}
+{"instruction": "We have to make a joke about bananas! it's a knock-knock joke!", "is_classification": "Yes"}
+{"instruction": "You said you're ready to help, and i said \"yay!\" now you want to know what we're doing, right?", "is_classification": "No"}
+{"instruction": "We need to explain things in a way that's easy to understand, like how you explain things to your friends!", "is_classification": "No"}
+{"instruction": "We have to make a list of yummy snacks that are salty and soft, like chips or pretzels!", "is_classification": "Yes"}
+{"instruction": "We need to decide if someone's behavior is good or bad.", "is_classification": "Yes"}
+{"instruction": "We have to make a plan for a class, like a schedule or a list of things to learn!", "is_classification": "No"}
+{"instruction": "We need to do a math problem: 11 minus 5 is equal to 6!", "is_classification": "No"}
+{"instruction": "How often do you eat at home? a) every day b) most days c) occasionally d) rarely", "is_classification": "Yes"}
+{"instruction": "How many meals do you typically eat per day? a) 3 b) 2 c) 1 d) more than 3 **section 2: cooking habits**", "is_classification": "Yes"}
+{"instruction": "How often do you cook? a) daily b) weekly c) monthly d) rarely", "is_classification": "Yes"}
+{"instruction": "What is your favorite ingredient to cook with? a) vegetables b) meat c) fruits d) other (please specify) **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions or preferences (e.g. vegetarian, gluten-free)? a) yes b) no", "is_classification": "Yes"}
+{"instruction": "How do you usually plan your meals? a) i plan my meals in advance b) i don't plan my meals c) i plan my meals occasionally **4. create a birthday planning checklist.** here's a sample birthday planning checklist: **6-8 weeks before the birthday:** * decide on a theme or color scheme * create a guest list * send out invitations * book a venue (if necessary) * plan the menu * create a playlist **4-6 weeks before the birthday:** * finalize the guest list and send out reminders", "is_classification": "Yes"}
+{"instruction": "I'll complete the tasks as requested. here are the results: **task 1: solve the math problems** let's take the equation: 1 + 2 + 3 = ? intermediate steps:", "is_classification": "No"}
+{"instruction": "Code review: read a code and detect if there is a syntax error or not.", "is_classification": "Yes"}
+{"instruction": "Syllabus planning: plan a syllabus for a class.", "is_classification": "No"}
+{"instruction": "I'll go through each task and provide a response. **task 1: create a survey that asks about eating and cooking habits** here's a sample survey: **eating and cooking habits survey** **section 1: eating habits**", "is_classification": "Yes"}
+{"instruction": "How confident are you in your cooking skills? * very confident * somewhat confident * not very confident * not at all confident", "is_classification": "Yes"}
+{"instruction": "What is your favorite cooking method? * grilling * baking * stir-frying * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Do you have any dietary restrictions or preferences (e.g. vegetarian, gluten-free)? * yes * no", "is_classification": "Yes"}
+{"instruction": "How do you usually find new recipes? * social media * food blogs * cookbooks * word of mouth **task 2: classify whether the user is satisfied with the service** please provide the dialogue. **task 3: classify whether the following email is a spam or not** please provide the email. **task 4: classify whether the following tasks with the corresponding responses** please provide the tasks and responses. **task 5: fill in the <mask> in the html document with a proper text** please provide the html document with the <mask> placeholder. **task 6: find the toxic word or phrase in the sentence** please provide the sentence. **task 7: translate this sentence into any arabic dialect and say what dialect it is** please provide the sentence to be translated. **task 8: translate the sentence** here is the translation: \"الجميلون لم يولدوا بعد\" this is in modern standard arabic (msa).", "is_classification": "Yes"}
+{"instruction": "Do you live alone or with others? **section 2: eating habits**", "is_classification": "Yes"}
+{"instruction": "Do you follow a specific diet (e.g. vegetarian, gluten-free)? * yes * no **section 3: cooking habits**", "is_classification": "Yes"}
+{"instruction": "Do you use a slow cooker or instant pot? * yes * no **section 4: food preferences**", "is_classification": "Yes"}
+{"instruction": "What is your favorite type of food? * meat-based * vegetarian * fruits and vegetables * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Do you prefer sweet or savory flavors? * sweet * savory * both", "is_classification": "Yes"}
+{"instruction": "Do you have any food allergies or intolerances", "is_classification": "Yes"}
+{"instruction": "Here's a list of salty snacks with a soft texture: * potato chips * pretzels * popcorn * cheese puffs * cheetos * saltines", "is_classification": "Yes"}
+{"instruction": "The prefix is not provided, so i'll wait for it to complete the paragraph.", "is_classification": "No"}
+{"instruction": "Here's a knock-knock joke about bananas: knock, knock! who's there? banana. banana who? banana-nana-boo-boo, i'm a-peeling to get in!", "is_classification": "No"}
+{"instruction": "This task is incomplete, as it doesn't specify what needs to be done. if you provide more information, i'll be happy to help!", "is_classification": "No"}
+{"instruction": "Replace the placeholders in the given text with appropriate named entities. unfortunately, you didn't provide the text with placeholders. please provide the text, and i'll be happy to help.", "is_classification": "No"}
+{"instruction": "Tell me whether the behavior is ethical or not. answer: not enough information to determine the behavior's ethics.", "is_classification": "Yes"}
+{"instruction": "Suggest some games that can be played by a group of people. answer: - charades - pictionary - would you rather - two truths and a lie - scavenger hunt", "is_classification": "Yes"}
+{"instruction": "Plan a syllabus for the class. answer: please provide the class details (subject, level, duration, etc.)", "is_classification": "No"}
+{"instruction": "What type of cuisine do you prefer? * italian * mexican * chinese * indian * other (please specify)", "is_classification": "Yes"}
+{"instruction": "What type of cooking do you enjoy most? * grilling * baking * stir-frying * boiling * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How much time do you spend cooking per day? * less than 30 minutes * 30 minutes to 1 hour * 1-2 hours * more than 2 hours **section 3: additional information**", "is_classification": "Yes"}
+{"instruction": "How do you typically shop for groceries? * online * in-store * both", "is_classification": "Yes"}
+{"instruction": "It seems like you've already provided your responses to some of the tasks. here are the tasks with the ones you've already completed marked as \"completed\" and the ones that need your response:", "is_classification": "No"}
+{"instruction": "I'll complete the tasks as requested. **task 1: solve the math problems** problem: 1 + 2 + 3 = ? intermediate steps:", "is_classification": "No"}
+{"instruction": "Portugal (10.3 million) **task 3: add 1 and 2: 1 + 2 = 3** 1 (budget) + 2 (population ranking) = 3 (no specific task 3, so i'll assume you meant to ask me to add the two previous tasks together, but that doesn't make sense in this case) **task 4: create a survey that asks about eating and cooking habits.** here's a sample survey: **eating and cooking habits survey**", "is_classification": "No"}
+{"instruction": "What is your favorite type of food to order when eating out? * pizza * burgers * salads * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Review your ticket contract to see if it includes a clause that outlines the airline's cancellation policies.", "is_classification": "Yes"}
+{"instruction": "Contact the airline's customer service department to see if they will offer a refund or compensation.", "is_classification": "Yes"}
+{"instruction": "What is your favorite type of food to cook? * meat-based dishes * vegetarian dishes * seafood * desserts * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is food quality to you? * very important * somewhat important * not very important * not at all important **5. you need to read a code and detect if there is a syntax error or not. output true if there is error, output false if there is not.** please provide the code you'd like me to analyze. **6. plan a syllabus for the class.** please provide more information about the class, such as the subject, level, and duration. **7. identify the pos tag of the word in the given sentence", "is_classification": "Yes"}
+{"instruction": "Contact the airline's customer service department to see if they will offer a refund or compensation. * task: contact the airline's customer service department to see if they will offer a refund or compensation. * output: none (no specific entities to link)", "is_classification": "Yes"}
+{"instruction": "Link all the entities in the sentence (highlighted in brackets) to a wikipedia page. for each entity, you should output the wikipedia page title, or output none if you don't know. * sentence: contact the airline's customer service department to see if they will offer a refund or compensation. * entities: [airline], [customer service department] * output: + airline: none + customer service department: customer service", "is_classification": "No"}
+{"instruction": "I broke up with my girlfriend and i am feeling so sad. can you give me some suggestions? * task: i broke up with my girlfriend and i am feeling so sad. can you give me some suggestions? * output: none (no specific entities to link)", "is_classification": "Yes"}
+{"instruction": "Given the facts, compose them into a coherent and fascinating story. * task: given the facts, compose them into a coherent and fascinating story. * output: none (no specific entities to link)", "is_classification": "No"}
+{"instruction": "Are you smarter than most redheads? * task: are you smarter than most redheads? * output: none (no specific entities to link)", "is_classification": "Yes"}
+{"instruction": "Add gin, lemon juice, and simple syrup to the shaker.", "is_classification": "No"}
+{"instruction": "Shake well for about 10-15 seconds.", "is_classification": "No"}
+{"instruction": "Strain the mixture into a wine glass filled with ice.", "is_classification": "No"}
+{"instruction": "No toxic word/phrase found. note that the toxic word/phrase is often a subtle or implied tone, and may not be immediately apparent.", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you prefer to cook? * italian * mexican * chinese * indian * other (please specify)", "is_classification": "Yes"}
+{"instruction": "How important is food quality to you? * very important * somewhat important * not very important * not at all important", "is_classification": "Yes"}
+{"instruction": "Do you follow a specific diet (e.g. vegan, gluten-free, etc.)? * yes * no", "is_classification": "Yes"}
+{"instruction": "How do you usually plan your meals? * i plan my meals in advance * i don't plan my meals in advance * i use a meal planning app * other (please specify) **task 5: no toxic word/phrase found.** * sentence: \"i'm happy to help you with your question.\" * no toxic word/phrase found. **task 6: classify whether the user is satisfied with the service.** * dialogue: + user: \"i ordered a pizza and it took 45 minutes to arrive. i'm very disappointed.\" + service representative: \"i apologize for the delay. we'll give you a 20% discount on your next order.\" * classification: unsatisfied (although the service representative is trying to make it right, the user is still unhappy with the initial", "is_classification": "Yes"}
+{"instruction": "Add the gin, grapefruit juice, simple syrup, and lemon juice to the shaker.", "is_classification": "No"}
+{"instruction": "Shake vigorously for about 10-12 seconds to combine and chill the ingredients.", "is_classification": "No"}
+{"instruction": "Strain the mixture into a chilled glass filled with ice.", "is_classification": "No"}
+{"instruction": "Garnish with a slice of grapefruit. **3. quick pre-run warmup routine:** here's a quick and effective pre-run warmup routine that can help prevent injuries and improve performance:", "is_classification": "No"}
+{"instruction": "How can individuals and organizations reduce unconscious bias? (this one is a discussion topic, not a task with a specific answer).", "is_classification": "No"}
+{"instruction": "Summarize the following document with several bullet points (this one is a repeat of task 5, please provide the document). let me know which task you'd like to start with!", "is_classification": "No"}
+{"instruction": "I'll go through each task and provide the requested information. **task 1: solve the math problems** i'll assume you want me to solve the following math problems:", "is_classification": "No"}
+{"instruction": "4 × 9 = ?", "is_classification": "No"}
+{"instruction": "7 - 1 = ? **intermediate steps:**", "is_classification": "Yes"}
+{"instruction": "7 - 1 = 6 **answers:**", "is_classification": "No"}
+{"instruction": "6 (1 + 2 + 3 = 6) -> no toxic word or phrase.", "is_classification": "Yes"}
+{"instruction": "Jump up in the air, landing softly on the balls of your feet. **6. solving the math word problem with linear algebra equations** let's say we have a word problem: \"a bakery sells a total of 250 loaves of bread per day. they sell a combination of whole wheat and white bread", "is_classification": "No"}
+{"instruction": "I'd be happy to complete these tasks for you. here's my response: i'll start with task 1: write a funny interview question. **task 1: funny interview question** here's a funny interview question: \"if you were a pizza topping, what would you be and why?\" i chose this question because it's a lighthearted and creative way to get to know a candidate's personality and think outside the box. it's a great way to assess their problem-solving skills, creativity, and ability to have fun. would you like me to proceed with the next task?", "is_classification": "Yes"}
+{"instruction": "I'd be happy to help you with the tasks. let's start with task 1: create a detailed budget for the given hypothetical trip. however, i don't see any information about the hypothetical trip. could you please provide the details about the trip, such as: * destination(s) * duration * mode of transportation * accommodation type * activities and expenses (e.g. food, entrance fees, souvenirs) * any other relevant information once i have this information, i can help you create a detailed budget for the trip.", "is_classification": "No"}
+{"instruction": "Replace all the human names in the paragraph with <anonymized>: original paragraph: \"john and emily were at the park with their friend, michael. they were playing tag when michael accidentally ran into emily.\" modified paragraph: \"<anonymized> and <anonymized> were at the park with their friend, <anonymized>. they were playing tag when <anonymized> accidentally ran into <anonymized>.\"", "is_classification": "No"}
+{"instruction": "Fill in the <mask> in the html document with a proper text: original html document: ``` <html> <body> <h1><mask></mask></h1> <p>this is a paragraph of text.</p> </body> </html> ``` completed html document: ``` <html> <body> <h1>welcome to our website!</h1> <p>this is a paragraph of text.</p> </body> </html> ```", "is_classification": "Yes"}
+{"instruction": "Fill in the <mask> in the html document with a proper text", "is_classification": "No"}
+{"instruction": "Brainstorm an essay on a given topic", "is_classification": "No"}
+{"instruction": "Rewrite a sentence to make it more professional", "is_classification": "Yes"}
+{"instruction": "Identify the limitations of scientific knowledge", "is_classification": "Yes"}
+{"instruction": "Find a breakfast option that meets specific dietary requirements", "is_classification": "Yes"}
+{"instruction": "Complete an analogy by writing the fourth word", "is_classification": "Yes"}
+{"instruction": "Evaluate the grammaticality of a sentence", "is_classification": "Yes"}
+{"instruction": "Correct any grammar errors in a sentence **task 3: brainstorming an essay** here is a detailed description of a method for brainstorming an essay:", "is_classification": "No"}
+{"instruction": "Start by writing down the topic or question in the center of a piece of paper or whiteboard.", "is_classification": "No"}
+{"instruction": "Brainstorm a list of related ideas, keywords, and concepts surrounding the topic.", "is_classification": "No"}
+{"instruction": "Identify key themes and subtopics, and group related ideas together.", "is_classification": "Yes"}
+{"instruction": "Write a short story using the following prompt: \"it was a dark and stormy night when i received a mysterious letter in the mail.\" now that we have the tasks, which one would you like to start with?", "is_classification": "No"}
+{"instruction": "I'll be happy to help with each of these tasks. here are the answers: **1. here are the tasks with a brief description of each**", "is_classification": "No"}
+{"instruction": "Create a to-do list for a 7-day trip to seattle.", "is_classification": "No"}
+{"instruction": "Add comments to a code snippet to make it more readable.", "is_classification": "No"}
+{"instruction": "Plan a 7-day itinerary for a trip to seattle.", "is_classification": "No"}
+{"instruction": "Determine if a sentence is factually correct.", "is_classification": "Yes"}
+{"instruction": "Fact-check a statement to determine its truth value.", "is_classification": "Yes"}
+{"instruction": "Extract country names from a paragraph.", "is_classification": "No"}
+{"instruction": "Calculate the sum of a series of numbers. let me know which one you'd like to start with!", "is_classification": "No"}
+{"instruction": "It seems like you provided a series of tasks, but the tasks themselves were not provided. however, i'll assume you meant to provide the tasks and the brief descriptions, and i'll respond accordingly. here are the tasks with brief descriptions:", "is_classification": "No"}
+{"instruction": "It seems like you've already provided the tasks with brief descriptions. i'll assume you'd like me to complete them. here are my responses:", "is_classification": "No"}
+{"instruction": "It seems like you've provided a list of tasks with some of them already completed. i'll go through the list and provide the necessary information or guidance for the remaining tasks. here are the tasks with a brief description of each:", "is_classification": "No"}
+{"instruction": "I'll provide the tasks with brief descriptions, and you can complete them. here are the tasks: **task 1: suggest a quick pre-run warmup routine. explain each move briefly.** a quick pre-run warmup routine can help prevent injuries and prepare your muscles for physical activity. here's a 5-minute routine:", "is_classification": "No"}
+{"instruction": "Simplify the right-hand side: x = 3 value of x: 3 **task 5: select the oldest person from the list** assuming the list is: * john (age 25) * jane (age 30) * bob (age 40) * alice (age 50) oldest person: alice (age 50) **task 6: as a newly hired sports coach, what are your plans for the first 30 days on the job?** here are my plans for the first 30 days on the job: * get to know the team and their strengths and weaknesses * develop a training plan and schedule * meet with the team to discuss goals and expectations * conduct a fitness assessment to identify areas for improvement * start implementing the training plan and providing feedback to the team * attend team meetings and provide guidance and support * monitor progress and make", "is_classification": "Yes"}
+{"instruction": "Solve the equation(s) using linear algebra techniques (e.g. substitution, elimination, matrices) for example, let's say the problem is: \"tom has been saving money for a new bike and has $120 in his savings account. he wants to buy a bike that costs $180. if he saves $15 per week, how many weeks will it take him to have enough money to buy the bike?\" let x be the number of weeks it takes tom to save enough money. then, the equation is: 120 + 15x = 180 to solve for x, we can subtract 120 from both sides of", "is_classification": "No"}
+{"instruction": "Read the problem statement carefully", "is_classification": "No"}
+{"instruction": "Identify the key elements of the problem (e.g. what is being asked, what information is given)", "is_classification": "No"}
+{"instruction": "Break down the problem into smaller, manageable parts", "is_classification": "No"}
+{"instruction": "Analyze each part and identify any assumptions or constraints", "is_classification": "Yes"}
+{"instruction": "Determine the course goals and objectives", "is_classification": "No"}
+{"instruction": "Identify the target audience and their needs", "is_classification": "Yes"}
+{"instruction": "Choose the topics to be covered", "is_classification": "Yes"}
+{"instruction": "How do you usually find new recipes? * online * social media * cookbooks * word of mouth **3. classify whether the following email is a spam or not. output true or false.** the email is: \"dear customer, we have a special offer for you! buy one get one free on all our products. click here to redeem your offer.\" this email is **true** (spam). **4. translate this sentence into any arabic dialect and say what dialect it is: “the beautiful ones are not yet born** here's the translation in modern standard arabic (msa): \"الجميلون لم يولدوا بعد\" in egyptian arabic (egyptian dialect): \"الجميلين ما ولدوش بعد\" in levantine arabic (lebanese", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you prefer? * western * asian * middle eastern * other (please specify)", "is_classification": "Yes"}
+{"instruction": "Martin luther king jr. **task 3: leetcode problem solution** solve the following leetcode problem: \"given an array of integers, return the maximum sum of a subarray of size k.\" **task 4: longest sentence** given a paragraph of text, select the longest sentence in terms of the number of words and output the sentence index. **task 5: pos tagging** given a sentence, output the pos tags of all the words. use the following labels: adjective, adverb, conjunction, determiner, noun, number, preposition, pronoun, verb. **task 6: news article categorization** given a news article, identify all the categories that this article belongs to. use the following categories: music, sports, politics, tech, finance, basketball, soccer, tennis, entertainment, digital game, world news. **task 7: confirm tasks** you have confirmed the tasks. please proceed with the first task. let me know which task you'd like to start with!", "is_classification": "Yes"}
+{"instruction": "What type of cuisine do you enjoy cooking most? a) italian b) mexican c) chinese d) other (please specify)", "is_classification": "Yes"}
+{"instruction": "Stand with your feet shoulder-width apart.", "is_classification": "No"}
+{"instruction": "Slowly lower your body down into a seated position, keeping your back straight and your knees behind your toes.", "is_classification": "No"}
+{"instruction": "Pause for a moment at the bottom of the movement.", "is_classification": "Yes"}
+{"instruction": "Push through your heels to return to the starting position. **6. converting 85 f to celsius** to convert fahrenheit to celsius, use the formula: `celsius = (fahrenheit - 32) * 5/9` applying the formula: `celsius = (85 - 32) * 5/9 = 29.44` **7.", "is_classification": "No"}
